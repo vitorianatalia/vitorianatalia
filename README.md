@@ -1,6 +1,6 @@
 ### Olá 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="drawing" width="200" align="right"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="drawing" width="300" align="right"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorianatalia&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
