@@ -1,10 +1,20 @@
-### Hi there 👋
+### Olá 👋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="drawing" width="200" align="right"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorianatalia&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![vitorianatalia's github stats](https://github-readme-stats.vercel.app/api?username=vitorianatalia&show_icons=true&theme=dracula)](https://github.com/vitorianatalia/)
+
+
 
 <!--
 **vitorianatalia/vitorianatalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="drawing" width="200" float="right"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
