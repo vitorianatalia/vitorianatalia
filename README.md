@@ -1,4 +1,4 @@
-### Olá 👋
+### Hey 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="drawing" width="300" align="right"/>
 
